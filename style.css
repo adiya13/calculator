@@ -159,7 +159,7 @@ html {
 }
 .input input:hover{
     background-color: rgb(247, 234, 210);
-    color:rgb(16, 3, 100);
+    color:rgb(60, 3, 100);
 }
 @media screen and (max-width:500px){
     .inner-container{
